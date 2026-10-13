@@ -1,0 +1,5 @@
+console.log('Task 1')
+setTimeout(() => {
+    console.log('Task 2')
+},5000);
+console.log('Task 3')
